@@ -29,7 +29,7 @@ AI Coaching is our joint project with the US Olympic and Paralympic Committee th
 
 ## Livebook
 
-[![Livebook](images/livebook.jpg)](https://livebookai.com)
+[![Livebook](images/livebookai.jpg)](https://livebookai.com)
 
 Livebook AI is the first publicly available AI Agent, that has been running continuously since 2022. It was the first agent with AI Kiosk, installed at the Computer History Museum in Mountain View, California, entertaining visitors since 2022. It creates stories and illustrations in multiple categories.
 
