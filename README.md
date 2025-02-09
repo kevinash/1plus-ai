@@ -1,8 +1,8 @@
 [![http://1plus-ai.com](images/1plus-ai.jpg)](http://1plus-ai.com)
 
-1+AI Humans working with AI 
+1+AI Humans creating with AI 
 
-This is a list of projects created by humans with AI. 
+What can a single person do with AI? This is a list of projects created by humans with AI. 
 
 ## 1+AI Projects
 
@@ -19,6 +19,8 @@ These projects were created by a single human + AI.
 
 New AI platform to accelerate your AI solutions. If you are thinking of starting an AI solution for your business, consider our blueprint solutions! A blueprint is a prebuilt solution that can be customized by our consulting team or in partnership with your business to the needs of your business. 
 
+[agentomat.com](https://agentomat.com)
+
 [Agents as a Service for Business (AaaS)](https://agentomat.com)
 
 ## AI Coaching
@@ -27,11 +29,16 @@ New AI platform to accelerate your AI solutions. If you are thinking of starting
 
 AI Coaching is our joint project with the US Olympic and Paralympic Committee that provides AI Assistants available 24/7 for coaches and athletes to help with everyday training, coaching practice, personal training and more. 
 
+[aicoaching.us](https://aicoaching.us)
+
+
 ## Livebook
 
 [![Livebook](images/livebookai.jpg)](https://livebookai.com)
 
 Livebook AI is the first publicly available AI Agent, that has been running continuously since 2022. It was the first agent with AI Kiosk, installed at the Computer History Museum in Mountain View, California, entertaining visitors since 2022. It creates stories and illustrations in multiple categories.
+
+[livebookai.com](https://livebookai.com)
 
 
 
