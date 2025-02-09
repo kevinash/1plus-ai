@@ -40,5 +40,7 @@ Livebook AI is the first publicly available AI Agent, that has been running cont
 
 [livebookai.com](https://livebookai.com)
 
+Have your own projects made with AI? Join this repo and add them below...
+
 
 
