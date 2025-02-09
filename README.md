@@ -44,7 +44,8 @@ Livebook AI is the first publicly available AI Agent, that has been running cont
 
 ## Customers
 
-Connect with us to request a demo, a seminar or an evaluation.
+Connect with us to request a demo, a seminar or an evaluation. Our secret know-how is not just 1+AI business model. We made a powerful framework called AI Blueprint that offers an enormous productivity boost. Image your end-to-end project built in 1-3 weeks instead of months! (During evaluation we will help you decide on scope and timelines).
+
 
 [Book an appointment](https://calendar.app.google/qt2UoFTUMJMnt7ov5)
 
@@ -55,4 +56,6 @@ is GitHub repo instead of a resume. We will contact you if we have a project for
 
 [Developers join our team](
 https://github.com/kevinash/1plus-ai)
+
+
 
