@@ -27,3 +27,11 @@ New AI platform to accelerate your AI solutions. If you are thinking of starting
 
 AI Coaching is our joint project with the US Olympic and Paralympic Committee that provides AI Assistants available 24/7 for coaches and athletes to help with everyday training, coaching practice, personal training and more. 
 
+## Livebook
+
+[![Livebook](images/livebook.jpg)](https://livebookai.com)
+
+Livebook AI is the first publicly available AI Agent, that has been running continuously since 2022. It was the first agent with AI Kiosk, installed at the Computer History Museum in Mountain View, California, entertaining visitors since 2022. It creates stories and illustrations in multiple categories.
+
+
+
