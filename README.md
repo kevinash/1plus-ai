@@ -46,8 +46,13 @@ Livebook AI is the first publicly available AI Agent, that has been running cont
 
 Connect with us to request a demo, a seminar or an evaluation.
 
+[Book an appointment](https://calendar.app.google/qt2UoFTUMJMnt7ov5)
+
 ## Developers 
 
-Ready to do some work for 1+AI customers? Join this GitHub repo instead of a resume. We will contact you if we have a project for you.
+Ready to do some work for 1+AI customersplatforms
+is GitHub repo instead of a resume. We will contact you if we have a project for you.
 
+[Developers join our team](
+https://github.com/kevinash/1plus-ai)
 
