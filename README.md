@@ -1,4 +1,4 @@
-[![http://1plus-ai.com](images/kalabs.jpg)](http://1plus-ai.com)
+[![http://1plus-ai.com](images/1plus-ai.jpg)](http://1plus-ai.com)
 
 1+AI Humans working with AI 
 
