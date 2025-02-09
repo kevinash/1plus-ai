@@ -1,6 +1,6 @@
 [![http://1plus-ai.com](images/kalabs.jpg)](http://1plus-ai.com)
 
-1+AI Humans working with AI
+1+AI Humans working with AI 
 
 This is a list of projects created by humans with AI. 
 
