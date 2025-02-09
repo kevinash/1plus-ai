@@ -2,9 +2,12 @@
 
 1+AI Humans creating with AI 
 
-What can a single person do with AI? This is a list of projects created by humans with AI. 
+What can a single person do with AI?
+1+AI is a new buisiness model we offer to customers. Let us build your solution, using our 1+AI development model that consists of a single human engineer + AI. We deliver end-to-end AI solutions for businesses requiring deep AI expertise, AI Agents, Web and mobile applications using AI, AI Search, support and other custom solutions.
 
-## 1+AI Projects
+This is a list of showcase projects created by humans with AI. 
+
+## 1+AI Showcases
 
 These projects were created by a single human + AI.
 
@@ -40,7 +43,12 @@ Livebook AI is the first publicly available AI Agent, that has been running cont
 
 [livebookai.com](https://livebookai.com)
 
-Have your own projects made with AI? Join this repo and add them below...
+## Customers
 
+Connect with us to request a demo, a seminar or an evaluation.
+
+## Developers 
+
+Ready to do some work for 1+AI customers? Join this GitHub repo instead of a resume. We will contact you if we have a project for you.
 
 
