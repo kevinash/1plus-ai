@@ -28,6 +28,8 @@ https://github.com/kevinash/1plus-ai)
 
 ## 1+AI Blueprint Showcase
 
+Check these solutions made with 1+AI Blueprint:
+
 ### AGENTOMAT
 
 [![https://agentomat.com](images/agentomat-square-white.png)](https://agentomat.com)
