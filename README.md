@@ -56,8 +56,3 @@ is GitHub repo instead of a resume. We will contact you if we have a project for
 
 [Developers join our team](
 https://github.com/kevinash/1plus-ai)
-
-
-[![https://1plus-ai.com](images/1plus-ai.mp4)](https://1plus-ai.com)
-
-
